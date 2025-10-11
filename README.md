@@ -2,12 +2,14 @@ Information:-
 
 Name:Sharon Sahrin Mim
 
+Section:B
+
 Student ID: 0182320012101064
 
-Department: Computer Science and Engineering (CSE)
+Instructor: Nargish Jahan
+
+Department: Computer Science and Engineering
 
 Course Code: CSE-3212
 
 Course Title: Smartphone Application Development
-
-Instructor: Nargish Jahan
